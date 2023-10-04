@@ -4,7 +4,10 @@ This is a starter pack for creating React projects with Tailwind CSS configured.
 
 ## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+This starter pack includes a basic setup for using **Tailwind CSS with React Parcel Bundler**. To start building your own components and styles, follow these steps:
+
+##Parcel
+Parcel combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.
 
 1. Clone the repository to your local machine.
     ```sh
