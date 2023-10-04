@@ -2,7 +2,6 @@
   "name": "parcel-react-tailwind-starter-beast",
   "version": "1.0.0",
   "description": "React-parcel-tailwind-starter-beast",
-  "main": "index.js",
   "scripts": {
     "start": "npx parcel ./src/index.html",
     "build": "npx parcel build ./src/index.html"
